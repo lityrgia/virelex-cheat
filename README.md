@@ -6,7 +6,8 @@ Cheat is working ONLY with intel graphics card
 I made this internal cheat only for educational purposes, playing with it will cause ban. 
 It's hooking some opengl functions, also it's based on imgui and kiero hook.
 
-![изображение](https://github.com/user-attachments/assets/61e60873-ae82-4d74-9acd-477ad81b447f)
+![изображение](https://github.com/user-attachments/assets/6b418905-01c4-4eec-9632-b8074a2a5e0d)
+
 
 # ✨ Features
 - Chams (mobs, entities, color picker)
