@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks.cpp">
+      <Filter>main\hooks</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hooks.h">
+      <Filter>main\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="MinHook.h">
+      <Filter>ext</Filter>
+    </ClInclude>
+    <ClInclude Include="options.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="main">
+      <UniqueIdentifier>{017d0c96-57ea-4baf-ad87-b16d4bcb82c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main\hooks">
+      <UniqueIdentifier>{b2451a8f-a241-4fa9-b3b5-b40340216c65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext">
+      <UniqueIdentifier>{ce32ca87-c04a-4ee2-be42-72ae8e3deca4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
