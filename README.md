@@ -2,24 +2,20 @@
 # 🚧 Beware
 Cheat is working ONLY with intel graphics card
 
-# 📌 Introduction 
-I made this internal cheat only for educational purposes, playing with it will cause ban. 
-It's hooking some opengl functions, also it's based on imgui and kiero hook.
+# 📌 Info 
+It's second version of virelex, i removed gui and added some anti screen protection
 
-![изображение](https://github.com/user-attachments/assets/6b418905-01c4-4eec-9632-b8074a2a5e0d)
+![изображение](https://github.com/user-attachments/assets/752abf97-0eec-4dc9-9598-eb4e0f795dea)
 
 
 # ✨ Features
-- Chams (mobs, entities, color picker)
-- Insight 1
-- Insight 2
-- Hotkeys
+- Chams
 
 # 🔧 How-to-use
 1. Download some kind of injector (extreme injector for example)
 2. Inject it to the stalcraft.exe
 3. Wait until menu appear
-4. Press insert to open/close menu
+4. Press F3 to enable chams
 
 # 🏠 Build
 x64 release
